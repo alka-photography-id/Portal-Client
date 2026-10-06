@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "Alka_Photography",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyCxUdVwLFU3L2Uxau1Ga2oypp9z4W2rGbU",
     whatsappAdmin: "085750501269" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
